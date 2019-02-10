@@ -1,0 +1,10 @@
+name: qdshiny
+title:
+username:
+account: sccwrp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 704354
+bundleId: 1866472
+url: https://sccwrp.shinyapps.io/qdshiny/
+when: 1549765023.58728
