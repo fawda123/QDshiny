@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549763869406.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D3253CF3",
+    "lastKnownWriteTime" : 1549763866,
+    "last_content_update" : 1549763866,
+    "path" : "C:/proj/QDshiny/Example RF Tool for Shiny.R",
+    "project_path" : "Example RF Tool for Shiny.R",
+    "properties" : {
+        "cursorPosition" : "42,69",
+        "scrollLine" : "24"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
